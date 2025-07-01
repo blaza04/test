@@ -1,0 +1,38 @@
+summary 
+Software engineer with nearly one year of experience in Linux and Windows-based development, C/C++ programming, and software testing. Exposure to embedded systems concepts, with hands-on work in Qt/QML-based HMI development and Android application development. Familiar with ECU-TEST for basic automation tasks. Knowledgeable in CAN, FLEX, UART, and UDS communication protocols, with experience using Git and version control tools. Comfortable working in Agile-Scrum methodology with a strong focus on scalable system development.
+exp.
+Software Engineer|Acsia Technologies
+Trivandrum
+,
+India
+|
+Sep 2024
+-
+Current
+
+Hands-on training in Linux-based development using C/C++.
+Understanding of Linux system operations and file structure, comfortable with Linux-based development.
+Familiar with embedded software workflows and development tools.
+Android music player system created for an Android-based infotainment system using Android Studio.
+Implemented the radio and navigation features in the QT-based HMI as part of the internal POC. Used C++ for backend functionality and QML for UI design.
+Developed a Python-based application to conduct automated testing on MINI platforms by integrating ADB, DLT viewer, to build reports.
+Familiarized protocols like CAN, FLEX, UDS, and UART, as per automotive standards and ASPICE-based development processes.
+skill
+C/C++ programming
+Linux development
+Embedded systems
+Automated testing
+Android development
+Git and version control
+Python
+
+prj
+ESP32-based Wi-Fi toolkit
+ESP32-based tool to perform wireless sniffing and different attacks to test on 2.4 GHz Wi-Fi networks
+Used Arduino IDE as the development environment by utilizing core Arduino libraries
+Basic user interface implemented using a 0.96-inch OLED display and push buttons for navigation
+Used GitHub to track the development progress
+Automotive HMI
+Build a small vehicle infotainment system using Qt Creator
+UI designed using QML and used Qt for backend functionalities
+Interfaced free online APIs for getting music, weather, and time used QT signal/slot mechanism for connecting UI with backend logic
